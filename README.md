@@ -7,8 +7,10 @@ Para seu uso precisamos ter uma IDE instalada para facilitar ainda mais nosso tr
 Primeiro passo é fazer o download do projeto nesse link.
 Segundo passo é instalar, executando o lombok.jar. Por preferência use via linha de comando para caso de algum erro ocorra você consiga identificar. Como exemplo abaixo:
 
-1
+```java
 java -jar lombok.jar
+
+```
 Vai ser aberto uma janela para que seja escolhido quais IDEs será instalado o plugin, escolhendo clique em Install / Update.
 Após a instalação ser concluída caso seu Eclipse esteja aberto feche e abra novamente para que as alterações tenham efeito.
 
